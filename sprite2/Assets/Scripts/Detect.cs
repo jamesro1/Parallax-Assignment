@@ -9,8 +9,9 @@ public class Detect : MonoBehaviour {
 	
 	}
 	
-	void OnTriggerEnter(Collider other) {
-		if (other.name == "2 - big-foot")
-						anim.SetBool ("Bool", true);
+	void OnTriggerEnter2D(Collider2D other) {
+		if (other.name == "2 - big-foot") {
+			anim.SetBool ("StartSprite", true);
+		}
 	}
 }
