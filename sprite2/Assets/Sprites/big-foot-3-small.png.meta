@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 0038bcc76ca20d34e9ec3c7e91eaf7e3
+timeCreated: 1448076986
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: big-foot-3-small_0
+    21300002: big-foot-3-small_1
+    21300004: big-foot-3-small_2
+    21300006: big-foot-3-small_3
+    21300008: big-foot-3-small_4
+    21300010: big-foot-3-small_5
+    21300012: big-foot-3-small_6
+    21300014: big-foot-3-small_7
+    21300016: big-foot-3-small_8
+    21300018: big-foot-3-small_9
+    21300020: big-foot-3-small_10
+    21300022: big-foot-3-small_11
+    21300024: big-foot-3-small_12
+    21300026: big-foot-3-small_13
+    21300028: big-foot-3-small_14
+    21300030: big-foot-3-small_15
+    21300032: big-foot-3-small_16
+    21300034: big-foot-3-small_17
+    21300036: big-foot-3-small_18
+    21300038: big-foot-3-small_19
+    21300040: big-foot-3-small_20
+    21300042: big-foot-3-small_21
+    21300044: big-foot-3-small_22
+    21300046: big-foot-3-small_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: big-foot-3-small_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 830
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 829
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 829
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 829
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_4
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 829
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 624
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 624
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 624
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 624
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_9
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 624
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 419
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 419
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 419
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 419
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 419
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 204
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 204
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 204
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_18
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 204
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 204
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 10
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 10
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: big-foot-3-small_23
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 10
+        width: 110
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
